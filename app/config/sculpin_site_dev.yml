@@ -1,0 +1,5 @@
+# this is a place for metadata specific to the development environment
+# this imports block is required and not implied
+# configuring sites in this manner is optional
+imports:
+	- sculpin_site.yml
